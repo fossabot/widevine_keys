@@ -16,7 +16,12 @@ Works only if the site does not require specific json-formatted data in the lice
 And if it requires and you want to add its support, write me [on telegram](https://t.me/medvm) and we'll figure something out. Nothing is unhackable.
 </br> Examples:</br>
 1.  Normal work: </br>
-   ![Normal work](https://user-images.githubusercontent.com/43696206/145641480-bf3a07a6-2d6e-4dee-9398-b4ecdf8bf273.png) </br>
+   ![Normal work](https://user-images.githubusercontent.com/43696206/145641480-bf3a07a6-2d6e-4dee-9398-b4ecdf8bf273.png) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fwidevine_keys.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fwidevine_keys?ref=badge_shield)
+</br>
 2. Server did not issue a license, as it requires additional json-formatted data: 
   ![error_teapot](https://user-images.githubusercontent.com/43696206/145643061-8e44b226-a3c2-4c44-8c62-6db84e582d9e.png)</br>
 3. If "Unable to find PSSH in mpd" - use [this tool](https://tools.axinom.com/generators/PsshBox) to get it manually or write to issues attaching a link to mpd</br>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fwidevine_keys.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fwidevine_keys?ref=badge_large)
